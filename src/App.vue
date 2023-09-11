@@ -62,7 +62,7 @@ export default {
 <template>
   <div class="container">
 
-    <h1 class="text-danger">Projects</h1>
+    <h1 class="text-success">Projects</h1>
 
     <ul class="mt-5 list-unstyled">
 
